@@ -1,0 +1,240 @@
+@font-face {
+  font-family: 'icomoon-ultimate';
+	src:url('fonts/icomoon-ultimate.eot');
+	src:url('fonts/icomoon-ultimate.eot?#iefix') format('embedded-opentype'),
+		url('fonts/icomoon-ultimate.woff') format('woff'),
+		url('fonts/icomoon-ultimate.ttf') format('truetype'),
+		url('fonts/icomoon-ultimate.svg#icomoon-ultimate') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'icomoon-ultimate';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-home, .icon-pencil, .icon-pencil-2, .icon-camera, .icon-image, .icon-file, .icon-file-remove, .icon-file-check, .icon-file-upload, .icon-file-download, .icon-copy, .icon-file-plus, .icon-file-minus, .icon-file-2, .icon-stack, .icon-folder-download, .icon-tag, .icon-cart, .icon-phone, .icon-notebook, .icon-envelop, .icon-location, .icon-location-2, .icon-alarm, .icon-disk, .icon-undo, .icon-redo, .icon-quotes-right, .icon-quotes-left, .icon-lock, .icon-remove, .icon-arrow-left, .icon-arrow-down, .icon-arrow-right, .icon-arrow-up, .icon-enter, .icon-plus, .icon-minus, .icon-close, .icon-checkmark, .icon-eye, .icon-flag, .icon-flag-2, .icon-link, .icon-download, .icon-remove-2, .icon-cog, .icon-unlocked, .icon-lock-2, .icon-enter-2, .icon-enter-3, .icon-arrow-left-2, .icon-arrow-right-2, .icon-arrow-right-3, .icon-arrow-left-3, .icon-github, .icon-github-2, .icon-facebook, .icon-google-plus, .icon-twitter, .icon-feed, .icon-tumblr, .icon-linkedin, .icon-radio-checked, .icon-radio-unchecked, .icon-checkbox-checked, .icon-checkbox-unchecked {
+	font-family: 'icomoon-ultimate';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-home:before {
+	content: "\21";
+}
+.icon-pencil:before {
+	content: "\22";
+}
+.icon-pencil-2:before {
+	content: "\23";
+}
+.icon-camera:before {
+	content: "\24";
+}
+.icon-image:before {
+	content: "\25";
+}
+.icon-file:before {
+	content: "\26";
+}
+.icon-file-remove:before {
+	content: "\27";
+}
+.icon-file-check:before {
+	content: "\28";
+}
+.icon-file-upload:before {
+	content: "\29";
+}
+.icon-file-download:before {
+	content: "\2a";
+}
+.icon-copy:before {
+	content: "\2b";
+}
+.icon-file-plus:before {
+	content: "\2c";
+}
+.icon-file-minus:before {
+	content: "\2d";
+}
+.icon-file-2:before {
+	content: "\2e";
+}
+.icon-stack:before {
+	content: "\2f";
+}
+.icon-folder-download:before {
+	content: "\30";
+}
+.icon-tag:before {
+	content: "\31";
+}
+.icon-cart:before {
+	content: "\32";
+}
+.icon-phone:before {
+	content: "\33";
+}
+.icon-notebook:before {
+	content: "\34";
+}
+.icon-envelop:before {
+	content: "\35";
+}
+.icon-location:before {
+	content: "\36";
+}
+.icon-location-2:before {
+	content: "\37";
+}
+.icon-alarm:before {
+	content: "\38";
+}
+.icon-disk:before {
+	content: "\39";
+}
+.icon-undo:before {
+	content: "\3a";
+}
+.icon-redo:before {
+	content: "\3b";
+}
+.icon-quotes-right:before {
+	content: "\3c";
+}
+.icon-quotes-left:before {
+	content: "\3d";
+}
+.icon-lock:before {
+	content: "\3e";
+}
+.icon-remove:before {
+	content: "\3f";
+}
+.icon-arrow-left:before {
+	content: "\40";
+}
+.icon-arrow-down:before {
+	content: "\41";
+}
+.icon-arrow-right:before {
+	content: "\42";
+}
+.icon-arrow-up:before {
+	content: "\43";
+}
+.icon-enter:before {
+	content: "\44";
+}
+.icon-plus:before {
+	content: "\45";
+}
+.icon-minus:before {
+	content: "\46";
+}
+.icon-close:before {
+	content: "\47";
+}
+.icon-checkmark:before {
+	content: "\48";
+}
+.icon-eye:before {
+	content: "\49";
+}
+.icon-flag:before {
+	content: "\4a";
+}
+.icon-flag-2:before {
+	content: "\4b";
+}
+.icon-link:before {
+	content: "\4c";
+}
+.icon-download:before {
+	content: "\4d";
+}
+.icon-remove-2:before {
+	content: "\4e";
+}
+.icon-cog:before {
+	content: "\4f";
+}
+.icon-unlocked:before {
+	content: "\50";
+}
+.icon-lock-2:before {
+	content: "\51";
+}
+.icon-enter-2:before {
+	content: "\52";
+}
+.icon-enter-3:before {
+	content: "\53";
+}
+.icon-arrow-left-2:before {
+	content: "\54";
+}
+.icon-arrow-right-2:before {
+	content: "\55";
+}
+.icon-arrow-right-3:before {
+	content: "\56";
+}
+.icon-arrow-left-3:before {
+	content: "\57";
+}
+.icon-github:before {
+	content: "\58";
+}
+.icon-github-2:before {
+	content: "\59";
+}
+.icon-facebook:before {
+	content: "\5a";
+}
+.icon-google-plus:before {
+	content: "\5b";
+}
+.icon-twitter:before {
+	content: "\5c";
+}
+.icon-feed:before {
+	content: "\5d";
+}
+.icon-tumblr:before {
+	content: "\5e";
+}
+.icon-linkedin:before {
+	content: "\5f";
+}
+.icon-radio-checked:before {
+	content: "\60";
+}
+.icon-radio-unchecked:before {
+	content: "\61";
+}
+.icon-checkbox-checked:before {
+	content: "\62";
+}
+.icon-checkbox-unchecked:before {
+	content: "\63";
+}
