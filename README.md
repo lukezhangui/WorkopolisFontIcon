@@ -19,7 +19,7 @@ Password: CA2HkbLKp7
 ### Load session
 - Load the IcoMoonSession.json that is available in the I:drive icomoon folder:
 ```
-i:/workopolis/userexperience/_iconmoon
+I:\Workopolis\User Experience Graphic Design\Icons\_IcoMoon
 ```
 
 ### Change font selection
@@ -37,8 +37,10 @@ __Three rules:__
  - Make the changes to the stylesheet CSS 
 
 ### Optional: Change in github ###
- - You can track the changes in the session file/css file in the [github repository]. 
+ - You can track the changes in the session file/css file in the [github repository].
+ - Hopefully we have our main "branch" of icon font styles in this repo.
+ - Font style css is in the file [style.css]
 
-
+  [style.css]: https://github.com/lukezhangui/WorkopolisFontIcon/blob/master/style.css
   [Icomoon]: http://icomoon.io/
   [github repository]: https://github.com/lukezhangui/WorkopolisFontIcon
