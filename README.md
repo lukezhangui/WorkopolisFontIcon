@@ -6,8 +6,7 @@ Process for Modifying Font Icon
   - Go to [Icomoon]
   - Login with credentials:
 ```
-Email: jeff.kraermer@workopolis.com
-Password: CA2HkbLKp7    
+Ask Jeff for the credentials 
 ```
 
   - Click on 'app' and then start the app.
