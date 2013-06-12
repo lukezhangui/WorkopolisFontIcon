@@ -16,10 +16,7 @@ Ask Jeff for the credentials
 - choose Ultimate from the sets and click add. __Wait__ for it to finish loading *this takes a while*.
 
 ### Load session
-- Load the IcoMoonSession.json that is available in the I:drive icomoon folder:
-```
-I:\Workopolis\User Experience Graphic Design\Icons\_IcoMoon
-```
+- Load the [IcoMoonSession.json]:(https://github.com/lukezhangui/WorkopolisFontIcon/blob/master/IcoMoon%20Session.json) that is available in this repo:
 
 ### Change font selection
 __Three rules:__
